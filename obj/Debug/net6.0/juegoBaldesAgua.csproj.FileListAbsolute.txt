@@ -1,0 +1,15 @@
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoBaldesAgua\bin\Debug\net6.0\juegoBaldesAgua.exe
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoBaldesAgua\bin\Debug\net6.0\juegoBaldesAgua.deps.json
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoBaldesAgua\bin\Debug\net6.0\juegoBaldesAgua.runtimeconfig.json
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoBaldesAgua\bin\Debug\net6.0\juegoBaldesAgua.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoBaldesAgua\bin\Debug\net6.0\juegoBaldesAgua.pdb
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoBaldesAgua\obj\Debug\net6.0\juegoBaldesAgua.csproj.AssemblyReference.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoBaldesAgua\obj\Debug\net6.0\juegoBaldesAgua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoBaldesAgua\obj\Debug\net6.0\juegoBaldesAgua.AssemblyInfoInputs.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoBaldesAgua\obj\Debug\net6.0\juegoBaldesAgua.AssemblyInfo.cs
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoBaldesAgua\obj\Debug\net6.0\juegoBaldesAgua.csproj.CoreCompileInputs.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoBaldesAgua\obj\Debug\net6.0\juegoBaldesAgua.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoBaldesAgua\obj\Debug\net6.0\refint\juegoBaldesAgua.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoBaldesAgua\obj\Debug\net6.0\juegoBaldesAgua.pdb
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoBaldesAgua\obj\Debug\net6.0\juegoBaldesAgua.genruntimeconfig.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoBaldesAgua\obj\Debug\net6.0\ref\juegoBaldesAgua.dll
