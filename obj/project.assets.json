@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\lgonzalez\\.nuget\\packages\\": {}
+    "C:\\Users\\larry\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lgonzalez\\Documents\\SelinSoftware-personal\\cursos\\Progrmación Orientada O\\juegoBaldesAgua\\juegoBaldesAgua.csproj",
+      "projectUniqueName": "C:\\Users\\larry\\Documents\\desarrollos\\poo_cshard\\juegoBaldesDeAgua\\juegoBaldesAgua.csproj",
       "projectName": "juegoBaldesAgua",
-      "projectPath": "C:\\Users\\lgonzalez\\Documents\\SelinSoftware-personal\\cursos\\Progrmación Orientada O\\juegoBaldesAgua\\juegoBaldesAgua.csproj",
-      "packagesPath": "C:\\Users\\lgonzalez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lgonzalez\\Documents\\SelinSoftware-personal\\cursos\\Progrmación Orientada O\\juegoBaldesAgua\\obj\\",
+      "projectPath": "C:\\Users\\larry\\Documents\\desarrollos\\poo_cshard\\juegoBaldesDeAgua\\juegoBaldesAgua.csproj",
+      "packagesPath": "C:\\Users\\larry\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\larry\\Documents\\desarrollos\\poo_cshard\\juegoBaldesDeAgua\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lgonzalez\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\larry\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

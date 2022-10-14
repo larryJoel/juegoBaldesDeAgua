@@ -13,3 +13,18 @@ C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientad
 C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoBaldesAgua\obj\Debug\net6.0\juegoBaldesAgua.pdb
 C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoBaldesAgua\obj\Debug\net6.0\juegoBaldesAgua.genruntimeconfig.cache
 C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoBaldesAgua\obj\Debug\net6.0\ref\juegoBaldesAgua.dll
+C:\Users\larry\Documents\desarrollos\poo_cshard\juegoBaldesDeAgua\bin\Debug\net6.0\juegoBaldesAgua.exe
+C:\Users\larry\Documents\desarrollos\poo_cshard\juegoBaldesDeAgua\bin\Debug\net6.0\juegoBaldesAgua.deps.json
+C:\Users\larry\Documents\desarrollos\poo_cshard\juegoBaldesDeAgua\bin\Debug\net6.0\juegoBaldesAgua.runtimeconfig.json
+C:\Users\larry\Documents\desarrollos\poo_cshard\juegoBaldesDeAgua\bin\Debug\net6.0\juegoBaldesAgua.dll
+C:\Users\larry\Documents\desarrollos\poo_cshard\juegoBaldesDeAgua\bin\Debug\net6.0\juegoBaldesAgua.pdb
+C:\Users\larry\Documents\desarrollos\poo_cshard\juegoBaldesDeAgua\obj\Debug\net6.0\juegoBaldesAgua.csproj.AssemblyReference.cache
+C:\Users\larry\Documents\desarrollos\poo_cshard\juegoBaldesDeAgua\obj\Debug\net6.0\juegoBaldesAgua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larry\Documents\desarrollos\poo_cshard\juegoBaldesDeAgua\obj\Debug\net6.0\juegoBaldesAgua.AssemblyInfoInputs.cache
+C:\Users\larry\Documents\desarrollos\poo_cshard\juegoBaldesDeAgua\obj\Debug\net6.0\juegoBaldesAgua.AssemblyInfo.cs
+C:\Users\larry\Documents\desarrollos\poo_cshard\juegoBaldesDeAgua\obj\Debug\net6.0\juegoBaldesAgua.csproj.CoreCompileInputs.cache
+C:\Users\larry\Documents\desarrollos\poo_cshard\juegoBaldesDeAgua\obj\Debug\net6.0\juegoBaldesAgua.dll
+C:\Users\larry\Documents\desarrollos\poo_cshard\juegoBaldesDeAgua\obj\Debug\net6.0\refint\juegoBaldesAgua.dll
+C:\Users\larry\Documents\desarrollos\poo_cshard\juegoBaldesDeAgua\obj\Debug\net6.0\juegoBaldesAgua.pdb
+C:\Users\larry\Documents\desarrollos\poo_cshard\juegoBaldesDeAgua\obj\Debug\net6.0\juegoBaldesAgua.genruntimeconfig.cache
+C:\Users\larry\Documents\desarrollos\poo_cshard\juegoBaldesDeAgua\obj\Debug\net6.0\ref\juegoBaldesAgua.dll

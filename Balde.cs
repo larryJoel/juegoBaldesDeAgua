@@ -9,7 +9,7 @@ metodos para agregarle liquido al balde,
 algunos constructores y un metodo muy especial llamado vuelcaEn(Balde destino)
 que vuelva el contenido del balde actual en el balde destino, sin que se pierda nada del liquido, claro. Ademas, 
 *****************************************************************************************
-se necesita que tenga un metodo que pueda mostrar en pantalla mediante un dibujo simple cuanta capacidad tiene el balde y cuanto liquido tiene.
+se necesita que tenga un metodo que pueda mostrar en pantalla mediante un dibujo simple cuanta capacidad tiene el balde y cuanto liquido tiene. revisiòn del archivo
 */
 class Balde{
  double capacidad;
